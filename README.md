@@ -3,12 +3,12 @@
 **Duration:** Aug 2024 – Nov 2024  
 **Course:** Computer Networks Lab  
 
----
+
 
 ## **📝 Overview**
 This repository contains implementations and simulations of essential networking protocols and systems conducted as part of the Computer Networks Lab. The focus is on **real-time system design, network protocol analysis, and routing stability**, combining practical programming with simulation-based insights.  
 
----
+
 
 ## **💻 Projects & Implementations**
 
@@ -29,11 +29,10 @@ This repository contains implementations and simulations of essential networking
   - **Split Horizon**  
 - Ensured **stable and loop-free routing** across dynamic network topologies.  
 
----
+
 
 ## **🛠️ Technologies Used**
 - **C++** – Multithreaded systems and DVR simulation  
 - **ns-3** – Network protocol simulations (Ethernet and Wi-Fi)  
 - **QUIC** – Secure and reliable communication  
 
----
